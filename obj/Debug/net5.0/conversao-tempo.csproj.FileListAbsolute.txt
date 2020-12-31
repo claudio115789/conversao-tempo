@@ -1,0 +1,16 @@
+C:\Users\claudio\Documents\GitHub\conversao-tempo\bin\Debug\net5.0\conversao-tempo.exe
+C:\Users\claudio\Documents\GitHub\conversao-tempo\bin\Debug\net5.0\conversao-tempo.deps.json
+C:\Users\claudio\Documents\GitHub\conversao-tempo\bin\Debug\net5.0\conversao-tempo.runtimeconfig.json
+C:\Users\claudio\Documents\GitHub\conversao-tempo\bin\Debug\net5.0\conversao-tempo.runtimeconfig.dev.json
+C:\Users\claudio\Documents\GitHub\conversao-tempo\bin\Debug\net5.0\conversao-tempo.dll
+C:\Users\claudio\Documents\GitHub\conversao-tempo\bin\Debug\net5.0\ref\conversao-tempo.dll
+C:\Users\claudio\Documents\GitHub\conversao-tempo\bin\Debug\net5.0\conversao-tempo.pdb
+C:\Users\claudio\Documents\GitHub\conversao-tempo\obj\Debug\net5.0\conversao-tempo.csprojAssemblyReference.cache
+C:\Users\claudio\Documents\GitHub\conversao-tempo\obj\Debug\net5.0\conversao-tempo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\claudio\Documents\GitHub\conversao-tempo\obj\Debug\net5.0\conversao-tempo.AssemblyInfoInputs.cache
+C:\Users\claudio\Documents\GitHub\conversao-tempo\obj\Debug\net5.0\conversao-tempo.AssemblyInfo.cs
+C:\Users\claudio\Documents\GitHub\conversao-tempo\obj\Debug\net5.0\conversao-tempo.csproj.CoreCompileInputs.cache
+C:\Users\claudio\Documents\GitHub\conversao-tempo\obj\Debug\net5.0\conversao-tempo.dll
+C:\Users\claudio\Documents\GitHub\conversao-tempo\obj\Debug\net5.0\ref\conversao-tempo.dll
+C:\Users\claudio\Documents\GitHub\conversao-tempo\obj\Debug\net5.0\conversao-tempo.pdb
+C:\Users\claudio\Documents\GitHub\conversao-tempo\obj\Debug\net5.0\conversao-tempo.genruntimeconfig.cache
